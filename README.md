@@ -11,21 +11,19 @@
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-- [Observações](#observações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
-Projeto do curso [React: integrando seu projeto React com APIs](https://cursos.alura.com.br/course/react-integrando-projeto-react-apis), instruido por [**Vinicios Neves**](https://github.com/viniciosneves).
+Projeto do curso ([HTTP: entendendo a web por baixo dos panos](https://cursos.alura.com.br/course/http-entendendo-web-por-baixo-dos-panos), instruido por [**Geovane**](https://github.com/geonnave/).
 
 ## Objetivos do Projeto
 
-- Desenvolver a comunicação entre uma aplicação React e uma API REST;
-- Implementar hooks para buscar dados em uma API;
-- Utilizar o axios para realizar requisições HTTP;
-- Avaliar as informações da resposta da API;
-- Integrar o frontend ao backend;
-- Descrever o funcionamento de uma API a partir do Swagger.
+- Compreender a arquitetura e os conceitos fundamentais do protocolo HTTP;
+- Implementar o HTTPS para proteger os dados de uma aplicação durante a comunicação na web;
+- Explorar os principais avanços trazidos pelo HTTP/2 e HTTP/3 para otimizar a performance;
+- Desvendar os componentes das mensagens HTTP, como requisições, respostas e cabeçalhos;
+- Entender o que são URLs e domínios na web.
 
 ## Tecnolgias Utilizadas
 
@@ -34,14 +32,7 @@ Projeto do curso [React: integrando seu projeto React com APIs](https://cursos.a
 3. JS
 4. React
 5. TS
-6. Axios
-
-## Observações
-
-- O projeto possui uma aba /admin
-- O projeto tentar consumir API da url "http://localhost:8000/"
-- Não sei como subir esta API, então vai ter que ser uma ação manual
-- Baixe a pasta -> Tenha docker -> User o docker-compose build e depois o docker-compose up e então deve está tudo pronto
+6. Json-server
 
 ## Autor
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
